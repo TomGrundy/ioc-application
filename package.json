@@ -1,0 +1,24 @@
+{
+  "name": "ioc",
+  "version": "1.0.0",
+  "description": "Thomas Grundy Inversion Of Control Sample code for job application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TomGrundy/ioc-application.git"
+  },
+  "author": "Thomas Grundy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomGrundy/ioc-application/issues"
+  },
+  "homepage": "https://github.com/TomGrundy/ioc-application#readme",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
