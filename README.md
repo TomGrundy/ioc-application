@@ -6,7 +6,7 @@ Add your dependencies as needed, with ```iocWrapped.addDependency```,
 then, add factories that  with ```iocWrapped.addFactory```
 and then get your dependency inversion with ```iocWrapped.get```
 
-
+use ```npm install``` to install dependencies.
 Use ```npm test``` to run the tests.
 
 ## Structure
